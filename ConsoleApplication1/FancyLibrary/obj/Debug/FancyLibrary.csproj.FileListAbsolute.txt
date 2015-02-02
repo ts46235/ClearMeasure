@@ -1,0 +1,7 @@
+C:\Users\tobyst\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FancyLibrary\bin\Debug\FancyLibrary.dll
+C:\Users\tobyst\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FancyLibrary\bin\Debug\FancyLibrary.pdb
+C:\Users\tobyst\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FancyLibrary\bin\Debug\nunit.framework.dll
+C:\Users\tobyst\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FancyLibrary\bin\Debug\nunit.framework.xml
+C:\Users\tobyst\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FancyLibrary\obj\Debug\FancyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\tobyst\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FancyLibrary\obj\Debug\FancyLibrary.dll
+C:\Users\tobyst\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FancyLibrary\obj\Debug\FancyLibrary.pdb
